@@ -1,7 +1,7 @@
 {
     "orgName": "Dreamhouse",
     "edition": "Developer",
-    "features": ["Walkthroughs", "EnableSetPasswordInApi"],
+    "features": ["Walkthroughs", "EnableSetPasswordInApi","ServiceCloud"],
     "settings": {
         "lightningExperienceSettings": {
             "enableS1DesktopEnabled": true
