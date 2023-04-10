@@ -1,7 +1,7 @@
 {
     "orgName": "Dreamhouse",
     "edition": "Enterprise",
-    "features": ["Walkthroughs", "EnableSetPasswordInApi","ServiceCloud","ServiceCloudVoicePartnerTelephony"],
+    "features": ["Walkthroughs", "EnableSetPasswordInApi","ServiceCloud","ServiceCloudVoicePartnerTelephony:5"],
     "settings": {
         "lightningExperienceSettings": {
             "enableS1DesktopEnabled": true
